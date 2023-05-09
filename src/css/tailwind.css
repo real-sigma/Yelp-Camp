@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&family=Cabin:wght@400;600&family=Inter:wght@300;400&family=Montserrat:wght@300;400;500;600&family=Prata&family=Press+Start+2P&family=Roboto:ital,wght@0,300;0,400;1,100;1,300&family=Sen:wght@400;700&family=Ubuntu&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
